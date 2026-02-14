@@ -14,3 +14,4 @@ int main() {
     cout << f(0,s);
     return 0;
 }
+    
